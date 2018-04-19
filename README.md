@@ -9,10 +9,9 @@ Apache: 80
 
 Apache Load Balance Manaer URL: http://localhost//balancer-manager
 
-#Deploy Instructions: 
+# Deploy Instructions: 
 
 For Windows:
-
 
 
 For Linux:
